@@ -1,0 +1,4 @@
+To do well in cloud we need to have a different mindset
+1) high speed applictaions should be on high compute on cloud which means we should pay monthly for it so it would remind us monthly the cost whereas in on prem we pa y in advnace one time for 
+ giant machin
+2) when you design app you need to undrestand that servers are not next to you in another room anymore,we need to take into account of general latency of internet as backbone
